@@ -1,2 +1,2 @@
-# college-project
+# collegeproject
 This is my first repository 
