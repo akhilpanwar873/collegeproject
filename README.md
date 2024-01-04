@@ -1,2 +1,2 @@
-# colleg-eproject
+# collegeproject
 This is my first repository 
